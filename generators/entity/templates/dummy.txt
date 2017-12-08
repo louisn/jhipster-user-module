@@ -1,0 +1,2 @@
+hello relationuser:entity sub generator!
+It's dummy.txt
